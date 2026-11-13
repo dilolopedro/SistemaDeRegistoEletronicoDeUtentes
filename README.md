@@ -123,4 +123,4 @@ Os dados de saúde são informação sensível. Num sistema real, o tratamento d
 
 ## Autor
 
-*(Nome do estudante, número, turma e unidade curricular)*
+*(Dilolo Eauial Pedro, 3º Ano, turma: TL101 Período: Manhã)*
